@@ -46,7 +46,7 @@ ship anchor drag prediction based on weather condition
 
 
 
-
+* I only uploaded the parts I worked on in the project
 
 
 
