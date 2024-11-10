@@ -12,8 +12,7 @@ including anchorage name, average turning radius(m), location, shape of anchorag
 [2023 날씨 빅데이터 콘테스트_데이터_사용_안내_최종 (1).pdf](https://github.com/hyel0000/2023-weather-big-data-contest/files/13329497/2023._._._._.1.pdf) - R & HIVE Data manual
 
 
-[설명자료_2023날씨빅데이터콘테스트.pdf](https://github.com/hyel0000/2023-weather-big-data-contest/files/13329566/_2023.pdf)
-- contest description (from page 16)
+[설명자료_2023날씨빅데이터콘테스트.pdf](https://github.com/hyel0000/2023-weather-big-data-contest/files/13329566/_2023.pdf) - contest description (from page 16)
   
 1.Topic
 ship anchor drag prediction based on weather condition
