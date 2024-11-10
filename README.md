@@ -17,7 +17,7 @@ including anchorage name, average turning radius(m), location, shape of anchorag
 
 
   
-1.Topic
+1. Topic
 
 ship anchor drag prediction based on weather condition
 
