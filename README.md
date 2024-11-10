@@ -35,9 +35,9 @@ ship anchor drag prediction based on weather condition
    
 6. Model Validation
     
-● using CSI to calculate accuracy of the model(0: non-occurrence, 1: occurrence)
+       ● using CSI to calculate accuracy of the model(0: non-occurrence, 1: occurrence)
 
-● Predicting the Occurrence or Non-occurrence Based on Provided Data Only for a Specific Time Period(Values within +/- 30 minutes of a predicted occurrence (assigned as 1) are considered as occurrences.)
+       ● Predicting the Occurrence or Non-occurrence Based on Provided Data Only for a Specific Time Period(Values within +/- 30 minutes of a predicted occurrence (assigned as 1) are considered as occurrences.)
 
 ● Include the final evaluation scores of the last calculated model in the final contest proposal (analysis report) for submission
 
