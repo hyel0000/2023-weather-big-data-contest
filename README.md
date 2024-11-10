@@ -21,9 +21,9 @@ including anchorage name, average turning radius(m), location, shape of anchorag
 
 ship anchor drag prediction based on weather condition
 
-● analysis occurrence of anchor drag using given weather/ocean obervation data 
+     ● analysis occurrence of anchor drag using given weather/ocean obervation data 
 
-● suggest the Prediction Model Ideas for Anticipating Anchor Dragging 30 Minutes to 1 Hour Ahead
+     ● suggest the Prediction Model Ideas for Anticipating Anchor Dragging 30 Minutes to 1 Hour Ahead
 
 2. Introduction of VTS
    
